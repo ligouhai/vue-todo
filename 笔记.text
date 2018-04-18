@@ -1,0 +1,13 @@
+1.npm init(初始化)
+
+2.npm webpack@3.10 vue vue-loader
+
+3.npm css-loader vue-template-compiler
+
+4.新建src文件夹  app.vue文件 index.js
+
+5.新建webpack.config.js 配置输入 输出 编译格式
+
+6.配置stylu 配置图片处理
+
+7.配置weboack-dev  运行项目
