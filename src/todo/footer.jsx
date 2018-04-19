@@ -1,5 +1,6 @@
 import '../assets/styles/footer.styl'
 
+// jsx的使用
 export default {
   data() {
     return {
